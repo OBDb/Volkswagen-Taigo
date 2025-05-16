@@ -1,0 +1,16 @@
+command_id: 7E0.2211BB
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056211BB0175
+  expected_values:
+    VOLKSWAGEN_OIL_CRIT: 0.1492
+- response: 7E8056211BB060C
+  expected_values:
+    VOLKSWAGEN_OIL_CRIT: 0.6192
+- response: 7E8056211BB08DA
+  expected_values:
+    VOLKSWAGEN_OIL_CRIT: 0.9064
+- response: 7E8056211BB0984
+  expected_values:
+    VOLKSWAGEN_OIL_CRIT: 0.9744

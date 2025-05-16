@@ -1,0 +1,28 @@
+command_id: 7E0.7E8.22F442
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F4423038
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.344
+- response: 7E80562F4423048
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.36
+- response: 7E80562F4423050
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.368
+- response: 7E80562F4423060
+  expected_values:
+    VOLKSWAGEN_VPWR: 12.384
+- response: 7E80562F4423708
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.088
+- response: 7E80562F4423710
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.096
+- response: 7E80562F4423718
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.104
+- response: 7E80562F442371F
+  expected_values:
+    VOLKSWAGEN_VPWR: 14.111
