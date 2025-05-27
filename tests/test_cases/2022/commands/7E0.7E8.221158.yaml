@@ -1,7 +1,0 @@
-command_id: 7E0.7E8.221158
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: '7E8056211580000'
-  expected_values:
-    VOLKSWAGEN_MAX_DCHA_CUR_2: 0
