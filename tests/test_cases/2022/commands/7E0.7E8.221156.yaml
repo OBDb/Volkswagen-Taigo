@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221156
+test_cases:
+- response: '7E8056211560000'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0

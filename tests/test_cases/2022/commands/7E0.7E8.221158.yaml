@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221158
+test_cases:
+- response: '7E8056211580000'
+  expected_values:
+    VOLKSWAGEN_MAX_DCHA_CUR_2: 0
