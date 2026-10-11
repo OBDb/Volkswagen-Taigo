@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    TAIGO_ECM_10E0_RAW: 4232
+  response: 7E8056210E01088
+- expected_values:
+    TAIGO_ECM_10E0_RAW: 4343
+  response: 7E8056210E010F7
+- expected_values:
+    TAIGO_ECM_10E0_RAW: 4927
+  response: 7E8056210E0133F
+- expected_values:
+    TAIGO_ECM_10E0_RAW: 7338
+  response: 7E8056210E01CAA

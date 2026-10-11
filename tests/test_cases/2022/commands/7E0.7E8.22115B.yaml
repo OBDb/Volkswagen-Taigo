@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22115B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_DIR: 0
+    TAIGO_PARTICLE_FLT_FIELD: 0
   response: 7E80562115B0000

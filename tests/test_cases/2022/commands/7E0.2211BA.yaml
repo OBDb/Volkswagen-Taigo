@@ -1,26 +1,26 @@
 command_id: 7E0.2211BA
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.628
+    TAIGO_OIL_LEVEL: 0.0628
   response: 7E8056211BA009D
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.64
+    TAIGO_OIL_LEVEL: 0.064
   response: 7E8056211BA00A0
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.676
+    TAIGO_OIL_LEVEL: 0.0676
   response: 7E8056211BA00A9
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.68
+    TAIGO_OIL_LEVEL: 0.068
   response: 7E8056211BA00AA
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.696
+    TAIGO_OIL_LEVEL: 0.0696
   response: 7E8056211BA00AE
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.712
+    TAIGO_OIL_LEVEL: 0.0712
   response: 7E8056211BA00B2
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.732
+    TAIGO_OIL_LEVEL: 0.0732
   response: 7E8056211BA00B7
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 0.768
+    TAIGO_OIL_LEVEL: 0.0768
   response: 7E8056211BA00C0

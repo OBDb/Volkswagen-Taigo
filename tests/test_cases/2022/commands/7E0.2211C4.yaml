@@ -1,6 +1,5 @@
 command_id: 7E0.2211C4
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_MAX: 131.072
-    VOLKSWAGEN_PQ35_OIL_LVL_MAX: 131.072
+    TAIGO_OIL_MAX: 131.072
   response: 7E8056211C48000

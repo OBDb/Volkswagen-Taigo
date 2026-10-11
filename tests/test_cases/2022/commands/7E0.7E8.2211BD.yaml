@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    TAIGO_ECM_11BD_RAW: 0
+  response: 7E8046211BD00
+- expected_values:
+    TAIGO_ECM_11BD_RAW: 1
+  response: 7E8046211BD01
