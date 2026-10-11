@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 0
+    TAIGO_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 15
+    TAIGO_VSS: 15
   response: 7E80462F40D0F
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 17
+    TAIGO_VSS: 17
   response: 7E80462F40D11

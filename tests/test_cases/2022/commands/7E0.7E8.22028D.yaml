@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 39.5
+    TAIGO_ENG_CTRL_MODULE_T: 39.5
   response: 7E80562028D018B
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 39.7
+    TAIGO_ENG_CTRL_MODULE_T: 39.7
   response: 7E80562028D018D
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 40
+    TAIGO_ENG_CTRL_MODULE_T: 40
   response: 7E80562028D0190
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 40.2
+    TAIGO_ENG_CTRL_MODULE_T: 40.2
   response: 7E80562028D0192
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 40.5
+    TAIGO_ENG_CTRL_MODULE_T: 40.5
   response: 7E80562028D0195
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 41.2
+    TAIGO_ENG_CTRL_MODULE_T: 41.2
   response: 7E80562028D019C
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 56.7
+    TAIGO_ENG_CTRL_MODULE_T: 56.7
   response: 7E80562028D0237
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 57
+    TAIGO_ENG_CTRL_MODULE_T: 57
   response: 7E80562028D023A
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 57.5
+    TAIGO_ENG_CTRL_MODULE_T: 57.5
   response: 7E80562028D023F
